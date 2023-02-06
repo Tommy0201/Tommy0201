@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tommy0201
 - 👀 I’m interested in data science and human's well-being
-- 🌱 I’m currently learning to code web and prepare for data science major
+- 🌱 I’m currently learning to code web and prepare for computer science major
 - 💞️ I’m looking to collaborate on anything related to data
 - 📫 How to reach me: ...
 
