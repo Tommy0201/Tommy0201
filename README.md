@@ -4,7 +4,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 💫 About Me:
-🔭 I’m currently working on Web Scraping <br>👯 I’m looking to collaborate on Web Development, Data Science projects<br>🤝 I’m looking for help with Capstone projects for my first tech job<br>🌱 I’m currently learning Web Development using Javascript, React, HTML, and CSS<br>⚡ I'm interested in Data Science for Education
+🔭 I’m currently working on fine-tuning Translation Models as a Research Assistant at my university<br>
+🤝 I’m looking for Internship Opportunities in Data Engineering, Data Sience, and Software development<br>
+⚡ I'm interested in NLP, Data Science, and building recommendation system. 
 
 
 ## 🌐 Socials:
